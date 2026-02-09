@@ -1,0 +1,2 @@
+# Decoding-Agricultural-Success-What-10-Years-of-Yield-Data-Reveals-About-Modern-Farming
+In an era where data-driven decision-making is transforming every industry, agriculture stands at the forefront of this revolution. Using a comprehensive agricultural dataset from Kaggle.com, I recently embarked on a project to analyze agricultural data and create an interactive dashboard that reveals critical patterns and insights.
